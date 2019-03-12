@@ -91,8 +91,7 @@
             <clobbers target="CameraPopoverHandle" />
           </js-module>
 
-        <!-- <framework src="com.android.support:support-v4:24.1.1+" /> -->
-        <framework src="com.android.support:support-v4:23.+" />
+        <framework src="com.android.support:support-v4:24.1.1+" />
 
       </platform>
 
